@@ -8,11 +8,14 @@ Tanti Wulansari E41202195
 2. Data Berhasil Disimpan Di Private
 ![Data Berhasil Disimpan Di Private](https://user-images.githubusercontent.com/75100232/138542486-939468b6-d062-4a9e-878f-7724a9588fc8.png)
 
+
 3. Mengisi Data Public Dan Simpan
 ![Isi Data Untuk Public](https://user-images.githubusercontent.com/75100232/138542518-e40fb5df-7451-47ef-b60f-9e3cd732813d.png)
 
+
 4. Tampilan Data Untuk Private
 ![Tampilan Data Private](https://user-images.githubusercontent.com/75100232/138542540-dd39dfcc-632d-4b0a-bd28-1fb0dc48904d.png)
+
 
 5. Tampilan Data Public
 ![Tampilan Data Public](https://user-images.githubusercontent.com/75100232/138542569-d457d04b-dd8c-43b1-8394-0d893add5527.png)
