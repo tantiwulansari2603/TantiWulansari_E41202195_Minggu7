@@ -40,11 +40,12 @@ Tampilan Gambar SQLite
 7. Data yang diubah
 ![Data Yang Diubah](https://user-images.githubusercontent.com/75100232/138542675-b89eea8e-f4d6-438f-a0c8-22e104975c99.jpg)
 
-8. Data Berhasil Diubah
-![Data Yang Sudah Diubah](https://user-images.githubusercontent.com/75100232/138542975-e1984ef6-40bf-4572-8e0b-167d8993c773.jpeg)
 
 8. Data Berhasil Diubah
 ![Data berhasil diubah](https://user-images.githubusercontent.com/75100232/138542664-34756f96-b750-455c-8896-1dd89a46ef48.jpg)
+
+9. Data Yang Berhasil Diubah
+![Data Yang Sudah Diubah](https://user-images.githubusercontent.com/75100232/138542975-e1984ef6-40bf-4572-8e0b-167d8993c773.jpeg)
 
 9. Hapus Data
 ![Memilih hapus data](https://user-images.githubusercontent.com/75100232/138542692-c2b7cd7f-2a9d-48b2-a0e7-e4a42163a4f5.jpg)
