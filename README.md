@@ -17,9 +17,6 @@ Tanti Wulansari E41202195
 5. Tampilan Data Public
 ![Tampilan Data Public](https://user-images.githubusercontent.com/75100232/138542569-d457d04b-dd8c-43b1-8394-0d893add5527.png)
 
-
-
-
 Tampilan Gambar SQLite
 
 1. Tampilan Utam SQLite
