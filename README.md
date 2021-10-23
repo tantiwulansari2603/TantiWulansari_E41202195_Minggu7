@@ -6,16 +6,16 @@ Tanti Wulansari E41202195
 ![Tampilan Utama dan tambah data](https://user-images.githubusercontent.com/75100232/138542453-0234143e-b1b7-48a2-b983-1bc0ab70f692.png)
 
 2. Data Berhasil Disimpan Di Private
- ![Data Berhasil Disimpan Di Private](https://user-images.githubusercontent.com/75100232/138542486-939468b6-d062-4a9e-878f-7724a9588fc8.png)
+![Data Berhasil Disimpan Di Private](https://user-images.githubusercontent.com/75100232/138542839-434cafe7-26b8-4b62-93b9-5b72c1ce64e4.png)
 
 3. Mengisi Data Public Dan Simpan
-![Isi Data Untuk Public](https://user-images.githubusercontent.com/75100232/138542518-e40fb5df-7451-47ef-b60f-9e3cd732813d.png)
+![Isi Data Untuk Public](https://user-images.githubusercontent.com/75100232/138542847-70fa5f7c-02dc-4c1d-952f-80a68edceb8b.png)
 
 4. Tampilan Data Untuk Private
-![Tampilan Data Private](https://user-images.githubusercontent.com/75100232/138542540-dd39dfcc-632d-4b0a-bd28-1fb0dc48904d.png)
+![Tampilan Data Private](https://user-images.githubusercontent.com/75100232/138542851-1b13e333-dbcd-4297-b605-5119674d82cd.png)
 
 5. Tampilan Data Public
-![Tampilan Data Public](https://user-images.githubusercontent.com/75100232/138542569-d457d04b-dd8c-43b1-8394-0d893add5527.png)
+![Tampilan Data Public](https://user-images.githubusercontent.com/75100232/138542854-12b86ee5-a104-4e27-8d2b-246b9c99f975.png)
 
 Tampilan Gambar SQLite
 
